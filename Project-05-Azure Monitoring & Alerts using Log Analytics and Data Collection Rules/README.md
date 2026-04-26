@@ -1,4 +1,4 @@
-# Project 6: Azure Monitoring & Alerts using Log Analytics and Data Collection Rules
+# Project 5: Azure Monitoring & Alerts using Log Analytics and Data Collection Rules
 
 ## 📌 Overview
 This project demonstrates implementing **enterprise‑grade monitoring** for an Azure Linux Virtual Machine using **Azure Monitor**, **Log Analytics**, and **Data Collection Rules (DCR)**. The focus of this project is on **operational visibility, telemetry ingestion, and alerting**, rather than application deployment.
